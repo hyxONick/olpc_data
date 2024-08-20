@@ -8,7 +8,7 @@
 
 ### Ziye:
 - Finding paper
-- Registration page (Frontend)
+- Help with Registration page (Frontend)
 
 ### Wenhui:
 - User schema
