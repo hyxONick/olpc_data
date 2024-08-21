@@ -1,9 +1,5 @@
 # Group Task List
 
-## Done:
-1. **Assignment 1**
-2. **Wireframe for the Dashboard**
-
 ## Progress:
 
 ### Ziye:
@@ -39,6 +35,9 @@
 - **Shub:** School
 
 ---
+## Done:
+1. **Assignment 1**
+2. **Wireframe for the Dashboard**
 
 ### Next Group Meeting:
 - **Plan for development**
