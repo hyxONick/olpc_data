@@ -1,4 +1,12 @@
-analytics (data mining)
+this website is for analytics (data mining)
+
+
+Below is Jack's comments
+
+## Aug-21
+1. schema for app information, device, account, naplan, school, activity
+
+
 
 ## Aug-7
 1. setup github / onedrive (for data)
