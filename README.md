@@ -1,4 +1,4 @@
-Meeting notes
+analytics (data mining)
 
 ## Aug-7
 1. setup github / onedrive (for data)
