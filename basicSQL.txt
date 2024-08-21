@@ -1,0 +1,17 @@
+ select shipping_state, school_name, geolocation_type, substr(activity.appid, 1, instr(activity.appid, "/")-1 ) as appid, activity.duration as duration, activity.started as started
+		from 
+			( select shipping_state, school_name, geolocation_type, snlookups.serial as serial, snlookups.uid as uid
+			from
+				( select sfmigrations_accnt.id_asset as id_asset, shipping_state, geolocation_type, account_name as school_name, serial
+				from 
+					sfmigrations_accnt
+				Join sfmigrations_asset
+				on sfmigrations_accnt.id_asset = sfmigrations_asset.id_asset 
+				) temp1
+				Join snlookups
+				on temp1.serial = snlookups.serial 
+			) temp2
+			Join activity
+			on temp2.uid = activity.uid
+		
+	
