@@ -3,8 +3,12 @@ this website is for analytics (data mining)
 
 Below is Jack's comments
 
-## Aug-21
-1. schema for app information, device, account, naplan, school, activity
+## Aug-21  => meet on 4th Sep
+1. the team is familiar with the data strcture
+2. to do work:
+* Frontend: what is going to be shown (related to user queries) we should provide a list of what we allow users to ask
+* we need to know what chart type for showing what information (for instance bar chat for TOP-10 app, line chart for one particualr app's usage over a time period)
+* importing data into db 
 
 
 
