@@ -4,7 +4,7 @@
 1. **Assignment 1**
 2. **Wireframe for the Dashboard**
 
-## To Do:
+## Progress:
 
 ### Ziye:
 - Finding paper
