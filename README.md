@@ -3,6 +3,26 @@ this website is for analytics (data mining)
 
 Below is Jack's comments
 
+
+## Sep-4  => meet on 18th Sep
+1. Front end WBS desing (how many pages, what/how to show in each page, what kind of charts or animation? )
+2. Back end finish importing data=>db (a digram of data strucutre, table schema, join, filtering...)
+3. Final gaol for this semester is to do the front end, recommendataion for 2nd semester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Aug-21  => meet on 4th Sep
 1. the team is familiar with the data strcture
 2. to do work:
