@@ -1,4 +1,14 @@
 # Group Task List (team self report)
+## Week 9 Progress(Sep 18th)
+### Done
+1. Frontend WBS Design:
+https://uowmailedu-my.sharepoint.com/:x:/g/personal/zo987_uowmail_edu_au/EZbkqcHFd2lFk1uglS6e25wBT8BZuWmjajn5OznunmuCOw?e=oZ1r0d
+2. Backend：
+- Data Import
+- Dashboard ERD
+![Dashboard - ERD](https://github.com/user-attachments/assets/069ca933-0107-4bda-af88-05efcd7730ec)
+
+
 ## Week 7 Progress(Sep 4th)
 ### Done
 1. Frontend:
