@@ -1,5 +1,5 @@
 # Group Task List (team self report)
-## Week 7 Projress(Sep 4th)
+## Week 7 Progress(Sep 4th)
 ### Done
 1. Frontend:
 - A list of what we allow users to ask
