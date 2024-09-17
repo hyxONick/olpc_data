@@ -2,7 +2,7 @@
 ## Week 9 Progress(Sep 18th)
 ### Done
 1. Frontend WBS Design:
-https://uowmailedu-my.sharepoint.com/:x:/g/personal/zo987_uowmail_edu_au/EZbkqcHFd2lFk1uglS6e25wBT8BZuWmjajn5OznunmuCOw?e=oZ1r0d
+- https://uowmailedu-my.sharepoint.com/:x:/g/personal/zo987_uowmail_edu_au/EZbkqcHFd2lFk1uglS6e25wBT8BZuWmjajn5OznunmuCOw?e=oZ1r0d
 2. Backend：
 - Data Import
 - Dashboard ERD
