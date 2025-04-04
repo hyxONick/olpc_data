@@ -1,3 +1,38 @@
+# Week 5: Experimentation
+##Experiment 1 (DONE)
+Base model - Interaction matrix with equal importance (no weights)
+Where:
+Users = Schools
+Items = Apps
+
+For Hybrid filtering, we used the following features (best performing):
+Users - NAPLAN (bin scores)
+Items - Category, App rating
+
+##Experiment 2 (TODO)
+School hours-based model - data input will be using activity logs (school hours vs outside school hours)
+Where:
+Users = Schools
+Items = Apps
+
+For Hybrid filtering, we used the following features:
+Users - NAPLAN (bin scores)
+Items - Category, App rating
+
+##Experiment 3 (TODO)
+Feedback-based model - Interaction matrix with app rating as importance
+Where:
+Users = Schools
+Items = Apps
+
+For Hybrid filtering, we used the following features:
+Users - NAPLAN (bin scores)
+Items - Category
+
+##Frontend Revamp
+![image](https://github.com/user-attachments/assets/df7a8335-34cf-46bd-b2f9-53d5c31a5f11)
+
+
 # Week 4: Recommendation System using Matrix Factorization (LightFM)
 
 ## Problem Statement
