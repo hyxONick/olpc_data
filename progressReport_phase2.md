@@ -6,26 +6,31 @@ Users = Schools
 Items = Apps
 
 For Hybrid filtering, we used the following features (best performing):
+
 Users - NAPLAN (bin scores)
 Items - Category, App rating
 
 ## Experiment 2 (TODO)
 School hours-based model - data input will be using activity logs (school hours vs outside school hours)
+
 Where:
 Users = Schools
 Items = Apps
 
 For Hybrid filtering, we used the following features:
+
 Users - NAPLAN (bin scores)
 Items - Category, App rating
 
 ## Experiment 3 (TODO)
 Feedback-based model - Interaction matrix with app rating as importance
+
 Where:
 Users = Schools
 Items = Apps
 
 For Hybrid filtering, we used the following features:
+
 Users - NAPLAN (bin scores)
 Items - Category
 
