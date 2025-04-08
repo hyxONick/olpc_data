@@ -1,3 +1,21 @@
+# Week 6: Report, Revamp and Experimentation
+
+## Experiment 2 (DONE)
+School hours-based model - data input will be using activity logs (school hours vs outside school hours)
+
+Where:
+Users = Schools
+Items = Apps
+
+For Hybrid filtering, we used the following features:
+
+Users - NAPLAN (bin scores)
+Items - Category, App rating
+
+## Revamp Homepage (In Progress)
+
+## Report (In Progress)
+
 # Week 5: Experimentation
 ## Experiment 1 (DONE)
 Base model - Interaction matrix with equal importance (no weights)
