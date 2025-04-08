@@ -37,6 +37,15 @@ Items - Category
 ## Frontend Revamp
 ![image](https://github.com/user-attachments/assets/df7a8335-34cf-46bd-b2f9-53d5c31a5f11)
 
+## App Recommender
+1. The system first looks up School ID 20 in its database.
+2. It checks which apps your school has already used.
+3. Scoring Available Apps: For apps the school hasn't tried yet, the system calculates a score based on:
+   3.1 Which apps school's similar to the ones schools have used
+   3.2 Patterns it has learned from the overall data about which schools like which apps
+4. It ranks all potential apps by their scores from highest to lowest.
+5. It returns the top apps (usually 5 or 10) with their details like category and rating.
+
 
 # Week 4: Recommendation System using Matrix Factorization (LightFM)
 
