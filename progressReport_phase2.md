@@ -13,6 +13,8 @@ Users - NAPLAN (bin scores)
 Items - Category, App rating
 
 ### Revamp Homepage (In Progress)
+Link Here: https://olpc-frontend.vercel.app/
+Next step: Connect with backend API to display real data
 
 ### Report (In Progress)
 
