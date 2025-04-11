@@ -18,6 +18,10 @@ Link Here: https://olpc-frontend.vercel.app/
 Next step: Connect with backend API to display real data
 
 ### Report (In Progress)
+Intro (Done) - Background, Problem Statement, Scope and Limitations, Overview 
+
+Next step: Related work, Methodology
+
 
 # Week 5: Experimentation
 ## Experiment 1 (DONE)
